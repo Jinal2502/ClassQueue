@@ -242,13 +242,6 @@ isEmpty()               // Checks if queue is empty
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
 ## 🙏 Acknowledgments
 
 - Supabase for providing excellent backend-as-a-service
