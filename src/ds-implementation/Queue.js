@@ -1,4 +1,3 @@
-// src/ds-implementation/Queue.js
 
 class Queue {
     constructor() {
